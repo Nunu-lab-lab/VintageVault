@@ -866,9 +866,9 @@
     align-items: center;
     color: rgb(241, 241, 241);
     transform: translate(50%, 20%);
+    transition: 0.2s all;
 }
 .cart i:hover{
     padding-top: 4.5px;
     padding-bottom: 4.5px;
-    transition: 0.2s all;
 }
